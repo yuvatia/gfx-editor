@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gfx-editor/static/css/main.e701c611.css",
-    "main.js": "/gfx-editor/static/js/main.5928a992.js",
+    "main.js": "/gfx-editor/static/js/main.5aceace3.js",
     "static/js/453.ee02a017.chunk.js": "/gfx-editor/static/js/453.ee02a017.chunk.js",
     "index.html": "/gfx-editor/index.html",
     "main.e701c611.css.map": "/gfx-editor/static/css/main.e701c611.css.map",
-    "main.5928a992.js.map": "/gfx-editor/static/js/main.5928a992.js.map",
+    "main.5aceace3.js.map": "/gfx-editor/static/js/main.5aceace3.js.map",
     "453.ee02a017.chunk.js.map": "/gfx-editor/static/js/453.ee02a017.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e701c611.css",
-    "static/js/main.5928a992.js"
+    "static/js/main.5aceace3.js"
   ]
 }
